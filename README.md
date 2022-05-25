@@ -1,4 +1,3 @@
-# dragonk-rpg
-Homepage of dragonk-rpg-server.
-Check it out!
-url(https://nezuu2.github.io/dragonk-rpg/index.html)
+# server-management
+It's server-management dedicated website of for me.<br>
+You can start/stop the Minecraft server running on the Raspberry Pi, for example.
